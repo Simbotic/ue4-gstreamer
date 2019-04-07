@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.20",
+	"EngineAssociation": "{00033E85-08D6-A67A-C8AA-DAA245C78B11}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -13,8 +13,10 @@
 			]
 		}
 	],
-	"Plugins": [{
-		"Name": "GStreamer",
-		"Enabled": true
-	}]
+	"Plugins": [
+		{
+			"Name": "GStreamer",
+			"Enabled": true
+		}
+	]
 }
