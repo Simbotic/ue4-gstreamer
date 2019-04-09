@@ -1,6 +1,6 @@
 # UE4 GStreamer plugin
 
-[![Demo video](img/AppSrc.png)]
+[![Demo video](img/AppSrc.png)](https://youtu.be/bp_mFSUcxXc)
 
 
 [![Demo video](img/demo1.jpg)](https://www.youtube.com/watch?v=eCLCdaSIxBA)
